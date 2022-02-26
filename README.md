@@ -3,6 +3,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaeed-at&count_bg=%2379C83D&title_bg=%23555555&icon=addthis.svg&icon_color=%23E5BABA&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saeed.alijani@gmail.com)
 
+
+
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeed-at&show_icons=true&locale=en&layout=compact" alt="saeed-at" />
+  
 <div>
 
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=saeed-at&" alt="saeed-at" />
