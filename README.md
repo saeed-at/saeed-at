@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saeed.alijani@gmail.com)
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeed-at&show_icons=true&locale=en&layout=compact" alt="saeed-at" />
+
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=saeed-at&" alt="saeed-at" />
 </div>
 
