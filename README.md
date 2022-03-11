@@ -14,7 +14,7 @@
 href="mailto:saeed.alijani.ta@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-      badge&logo=gmail&logoColor=white" height="25" width="100"/>
   </a>
   <a 
-href="https://t.me/saeed0047" target="blank"><img align="left" src="https://icons8.com/icon/63306/telegram-app" height="25" width="25"/>
+href="https://t.me/saeed0047" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Telegram_Logo.webp" height="25" width="25"/>
   </a>
 </div>
 <a href="https://icons8.com/icon/63306/telegram-app">Telegram App icon by Icons8</a>
