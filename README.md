@@ -14,7 +14,7 @@
 href="mailto:saeed.alijani.ta@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-      badge&logo=gmail&logoColor=white"/>
   </a>
   <a 
-href="https://t.me/saeed0047" target="blank"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+href="https://t.me/saeed0047" target="blank"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="50" width="50"/>
   </a>
 </div>
 
