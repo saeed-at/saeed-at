@@ -17,7 +17,7 @@ href="mailto:saeed.alijani.ta@gmail.com" target="blank"><img align="left" src="h
 href="https://t.me/saeed0047" target="blank"><img align="left" src="https://icons8.com/icon/63306/telegram-app" height="25" width="25"/>
   </a>
 </div>
-
+<a href="https://icons8.com/icon/63306/telegram-app">Telegram App icon by Icons8</a>
 
 
 https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
