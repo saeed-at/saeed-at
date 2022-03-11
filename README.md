@@ -10,7 +10,7 @@
 
 
 <div id="badges">
-  <a href="https://t.me/saeed0047" target="blank"><img align="left" src="https://img.shields.io/badge/Telegram-id-blue"/></a>
+  <a href="https://t.me/saeed0047" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whit"/></a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
