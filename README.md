@@ -11,7 +11,8 @@
 
 <div id="badges">
   <a 
-href="mailto:saeed.alijani.ta@gmail.com" target="blank"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-      badge&logo=gmail&logoColor=white" height="25" width="100"/>
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)(https://t.me/saeed0047)
+
   </a>
   <a 
 href="https://t.me/saeed0047" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Telegram_Logo.webp" height="25" width="25"/>
