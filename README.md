@@ -10,10 +10,6 @@
 
 
 <div id="badges">
-  <a href="https://t.me/saeed0047">
-    <img src="https://simpleicons.org/icons/telegram.svg" alt="LinkedIn Badge"/>
-    target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" />
-  </a>
   <a href="https://t.me/saeed0047" target="blank"><img align="left" src="https://simpleicons.org/icons/telegram.svg" height="100" /></a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
