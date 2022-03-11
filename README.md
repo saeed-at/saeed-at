@@ -9,16 +9,5 @@
 
 
 
-<div id="badges">
-  <a 
+
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)(https://t.me/saeed0047)
-
-  </a>
-  <a 
-href="https://t.me/saeed0047" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Telegram_Logo.webp" height="25" width="25"/>
-  </a>
-</div>
-<a href="https://icons8.com/icon/63306/telegram-app">Telegram App icon by Icons8</a>
-
-
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
